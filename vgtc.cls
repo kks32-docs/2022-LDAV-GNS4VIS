@@ -781,7 +781,7 @@ Manuscript received xx xxx. 201x; accepted xx xxx. 201x. Date of Publication xx 
    \let\vgtc@title\@title%
    \let\vgtc@author\@author%
    \vgtc@origmaketitle%
-   \thispagestyle{empty}%
+   %\thispagestyle{empty}%
    \ifvgtc@doublespaced%
        \renewcommand{\baselinestretch}{1.66}\selectfont%
    \fi%
